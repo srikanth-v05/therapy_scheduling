@@ -1,4 +1,5 @@
 streamlit
-langchain
-google-api-python-client
-langchain-google-genai
+snowflake-connector-python
+speechrecognition
+pandas
+pyttsx3
